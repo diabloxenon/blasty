@@ -1,0 +1,13 @@
+[package]
+name = "blasty"
+version = "0.0.1"
+authors = ["Xenon Lucifer Diablo <code@nmnx.org>"]
+edition = "2018"
+description = "Placeholder for Project: masterblaster"
+license = "Apache-2.0"
+homepage = "https://nmnx.org/dev/blasty"
+repository = "https://github.com/diabloxenon/blasty"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
